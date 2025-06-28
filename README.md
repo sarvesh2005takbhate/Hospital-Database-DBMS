@@ -1,9 +1,6 @@
 # Hospital Management System
 
-This project is a Hospital Management System that allows users to manage various aspects of a hospital, including employees, patients, appointments, inventory, and billing. The system is implemented using Python and MySQL. My teammates :
-- [Sudheera YS](https://github.com/DheeruYS)
-- [Harshil Singh](https://github.com/haxxxil)
-- [Prasoon Dev](https://github.com/prasoondev)
+This project is a Hospital Management System that allows users to manage various aspects of a hospital, including employees, patients, appointments, inventory, and billing. The system is implemented using Python and MySQL.
 
 ## Requirements
 The `Requirements.pdf` showcases our initial requirements with the database along with purpose, users, application, database requirements (entities and relationships) and functional requirements.
